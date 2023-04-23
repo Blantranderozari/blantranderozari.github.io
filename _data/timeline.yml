@@ -17,45 +17,77 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: PT Eradi Teknologi Digital
+  title-url: https://eradi-tech.com/
+  date: Aug 2022 - Present
+  subtitle: System Solution Engineer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Machine Learning
+    - tag: AWS
+    - tag: Tensorflow
+    - tag: Keras
+    - tag: TFX
+    - tag: Python
+    - tag: Jupyter Notebook
   timeline-side: right
 
-- title: Google
+- title: Voluntary Work
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: Aug 2015 - Jul 2022
+  subtitle: Chairman of Farmer Association
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Python
+    - tag: Numpy
+    - tag: Pandas
+    - tag: Scikit-learn
+    - tag: matplotlib
+    - tag: docker
+    - tag: nginx
+    - tag: Python
+    - tag: Raspberry Pi 
+    - tag: ESP32
+    - tag: Arduino
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: McDermott
+  title-url: https://www.mcdermott.com/
+  date: Jan 2003 - Mar 2015
+  subtitle: Senior Project Engineer
+  timeline-side: left
+
+- title: Fugro
+  title-url: https://www.fugro.com/
+  date: Jan 2001 - Dec 2002
+  subtitle: Senior GIS Programmer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: ArcGIS
+    - tag: C++
+    - tag: SQL
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
+- title: Indonet
+  title-url: https://indonet.co.id/id/
+  date: 1998 - 2000
+  subtitle: Linux System Administrator & Web Developer
+  tags:
+    - tag: Solaris
+    - tag: BIND
+    - tag: Apache
+    - tag: MySQL
+    - tag: GNU Make
+    - tag: PHP
+    - tag: Bash
+    - tag: Javascript
+    - tag: Qmail
+    - tag: LDAP
+  timeline-side: left
+
+- title: Bandung Institute of Technology
+  title-url: https://www.itb.ac.id/?n=1682224294
+  date: 1989 - 1997
   subtitle: B.A. Computer Science
-  timeline-side: left
+  tags:
+    - tag: Linux
+    - tag: C
+    - tag: Matlab
+  timeline-side: right
