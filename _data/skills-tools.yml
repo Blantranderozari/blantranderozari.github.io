@@ -5,32 +5,32 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Linux
   weight: 5
 
-- name: Bash
-  weight: 3
-
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: Solaris
   weight: 2
 
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: MySQL
   weight: 3
 
-- name: Postman
+- name: Apache
   weight: 4
+
+- name: Nginx
+  weight: 1
+
+- name: LDAP
+  weight: 2
+
+- name: Docker
+  weight: 3
+
+- name: Raspberry Pi
+  weight: 5
+
+- name: ESP 32
+  weight: 4
+
+- name: Arduino
+  weight: 3

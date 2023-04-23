@@ -5,29 +5,32 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
+- name: BIND
   weight: 2
 
-- name: Express
+- name: QMail
   weight: 3
 
-- name: Django
-  weight: 1
+- name: Tensorflow
+  weight: 4
 
-- name: Spring
+- name: Keras
+  weight: 3
+
+- name: Numpy
   weight: 2
 
-- name: Rails
+- name: Pandas
   weight: 4
+
+- name: Scikit-Learn
+  weight: 3
+
+- name: Matplotlib
+  weight: 2
+
+- name: AWS
+  weight: 4
+
+- name: CloudFormation
+  weight: 2
