@@ -23,12 +23,9 @@
   subtitle: System Solution Engineer
   tags:
     - tag: Machine Learning
+    - tag: TFX    
     - tag: AWS
-    - tag: Tensorflow
-    - tag: Keras
-    - tag: TFX
-    - tag: Python
-    - tag: Jupyter Notebook
+    - tag: CloudFormation
   timeline-side: right
 
 - title: Voluntary Work
@@ -36,7 +33,10 @@
   date: Aug 2015 - Jul 2022
   subtitle: Chairman of Farmer Association
   tags:
+    - tag: Tensorflow
+    - tag: Keras
     - tag: Python
+    - tag: Google Colab
     - tag: Numpy
     - tag: Pandas
     - tag: Scikit-learn
@@ -44,8 +44,9 @@
     - tag: docker
     - tag: nginx
     - tag: Python
+    - tag: Jupyter Notebook
     - tag: Raspberry Pi 
-    - tag: ESP32
+    - tag: ESP 32 & ESP 8266
     - tag: Arduino
   timeline-side: left
 
@@ -53,7 +54,7 @@
   title-url: https://www.mcdermott.com/
   date: Jan 2003 - Mar 2015
   subtitle: Senior Project Engineer
-  timeline-side: left
+  timeline-side: right
 
 - title: Fugro
   title-url: https://www.fugro.com/
@@ -76,7 +77,6 @@
     - tag: MySQL
     - tag: GNU Make
     - tag: PHP
-    - tag: Bash
     - tag: Javascript
     - tag: Qmail
     - tag: LDAP
@@ -85,9 +85,12 @@
 - title: Bandung Institute of Technology
   title-url: https://www.itb.ac.id/?n=1682224294
   date: 1989 - 1997
-  subtitle: B.A. Computer Science
+  subtitle: Bachelor of Engineering in Applied Physics
   tags:
     - tag: Linux
+    - tag: Bash
     - tag: C
+    - tag: C++
     - tag: Matlab
+    - tag: Deep Learning
   timeline-side: right
