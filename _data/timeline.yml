@@ -26,6 +26,7 @@
     - tag: TFX    
     - tag: AWS
     - tag: CloudFormation
+    - tag: VS Code
   timeline-side: right
 
 - title: Voluntary Work
@@ -35,7 +36,6 @@
   tags:
     - tag: Tensorflow
     - tag: Keras
-    - tag: Python
     - tag: Google Colab
     - tag: Numpy
     - tag: Pandas
@@ -71,6 +71,7 @@
   date: 1998 - 2000
   subtitle: Linux System Administrator & Web Developer
   tags:
+    - tag: Linux
     - tag: Solaris
     - tag: BIND
     - tag: Apache
